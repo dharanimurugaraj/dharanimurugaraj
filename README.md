@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there, I'm Dharani! 👋
 
-<!--
-**dharanimurugaraj/dharanimurugaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I’m a computer science student passionate about AI, DevOps and Development. My goal is to create impactful projects that use innovative technologies to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, C++, Java
+- **AI/ML:** TensorFlow, PyTorch, OpenCV, Swin Transformer
+- **Tools:** Git, Docker, Kubernetes, AWS, GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharanimurugaraj&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharanimurugaraj&theme=radical)
+
+## 🔥 Top Projects
+- [Medical AI Project](https://github.com/dharanimurugaraj/Medical-AI)
+- [Windows Folder Sharing App](https://github.com/dharanimurugaraj/WindowsFolderSharing)
+
+## 📧 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/dharanimurugaraj/)
+[Twitter](https://twitter.com/dharanimurugaraj)
+
